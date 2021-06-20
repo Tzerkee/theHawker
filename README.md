@@ -5,7 +5,6 @@ theHawker is a digital marketplace platform designed for hawkers that focused on
 - community-based
 - non-profit
 - easy store setup & item listing
-- zero learning curve
 
 ## Installation :speech_balloon:
 
